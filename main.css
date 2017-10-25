@@ -3,17 +3,19 @@ body {
     background-color: #424949;
 }
 h1 {
-    color: blue;
+    color: white;
 }
 p {
-    color: red;
+    color: white;
 }
 
-ul {
+#navagation {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
 }
 
 li {
@@ -25,21 +27,7 @@ li a {
     padding: 8px;
     background-color: #dddddd;
 }
-
-/**#navagation{
-	font-family: 'Arial', sans-serif;
-	font-size: 24px;
-	color: blue;
-	list-style-type: none;
-   	 margin: 0;
-   	 padding: 0;
-   	 overflow: hidden;
-	display: block;
-    padding: 8px;
-    background-color: #dddddd;
-	float: left;
-**/
-}    
+    
 p{
   line-height: 1.32em;
   font-family: 'Hind Vadodara', sans-serif;

@@ -13,23 +13,14 @@ p {
 	font-family: 'Arial', sans-serif;
 	font-size: 24px;
 	color: #D0D3D4;
+	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
 }
 
-th{
-  padding-bottom: 1em;
-}
-
-td{
-  text-align: center;
-}
-
-h2{
-  font-family: 'Hind Vadodara', sans-serif;
-  font-size: 24px;
-  font-weight: bold;
-  margin-top: 0.9375em;
-  margin-bottom: 0.9375em;
-  text-decoration: underline;
+li a {
+    display: block;
+    width: 60px;
 }
 
 p{

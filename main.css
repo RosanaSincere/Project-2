@@ -31,11 +31,11 @@ p{
 }
 
 nav ul li a:hover{
-  color: #EBDEF0;
+  color: yellow;
 }
 
 nav ul li a:active{
-  color: #bb8fce;
+  color: white;
 }
 
 #aboutMe {

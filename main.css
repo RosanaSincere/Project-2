@@ -1,6 +1,6 @@
 
 body {
-    background-color: powderblue;
+    background-color: #424949;
 }
 h1 {
     color: blue;
@@ -9,8 +9,7 @@ p {
     color: red;
 }
 
-#body{
-	background-color: #424949;
+#navagation{
 	font-family: 'Arial', sans-serif;
 	font-size: 24px;
 	color: #D0D3D4;

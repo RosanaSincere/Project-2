@@ -1,0 +1,48 @@
+body{
+  background-color: #424949;
+}
+
+th{
+  padding-bottom: 1em;
+}
+
+td{
+  text-align: center;
+}
+
+h2{
+  font-family: 'Hind Vadodara', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 0.9375em;
+  margin-bottom: 0.9375em;
+  text-decoration: underline;
+}
+
+p{
+  line-height: 1.32em;
+  font-family: 'Hind Vadodara', sans-serif;
+  width: 90%;
+  color: #D0D3D4;
+}
+
+nav ul li a:hover{
+  color: #EBDEF0;
+}
+
+nav ul li a:active{
+  color: #bb8fce;
+}
+
+#aboutMe {
+	font-family: sans-serif;
+	font-size: 40px;
+	
+}
+#nav{
+	
+}
+
+.clear{
+  clear: both;
+}

@@ -17,17 +17,12 @@ p {
    	 margin: 0;
    	 padding: 0;
    	 overflow: hidden;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
+	display: block;
     padding: 8px;
     background-color: #dddddd;
-}
+	float: left;
+
+}    
 p{
   line-height: 1.32em;
   font-family: 'Hind Vadodara', sans-serif;

@@ -27,6 +27,7 @@ ul {
 
 li {
     float: left;
+    list-style-type: none;
 }
 
 li a {
@@ -53,19 +54,11 @@ p {
   color: #D0D3D4;
 }
 
-nav ul li a:hover{
-  color: yellow;
-}
-
-nav ul li a:active{
-  color: white;
-}
-
-#aboutme {
+.aboutme {
 	font-family: sans-serif;
 	font-size: 40px;	
 }
-#contact {
+.contact {
 	 font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif; 
 	font-size: 30px;
 }

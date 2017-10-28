@@ -2,16 +2,13 @@
 body {
     background-color: #424949;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
-	 font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, sans-serif;
+	color: white;
 }
 h1 {
     color: white;
     font-size: 40px;
 }
 
-h3 {
-    font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, sans-serif; 
-}
 p {
     color: white;
 }
@@ -62,7 +59,27 @@ p {
 	 font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif; 
 	font-size: 30px;
 }
+#resumeHead{
+	 text-align: center;
+	 background-color: #424949;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	color: white;
 }
-.clear{
-  clear: both;
+#skills{
+	text-align: left;
+	 background-color: #424949;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	color: white;	
+}
+#experience{
+	text-align: left;
+	 background-color: #424949;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	color: white;
+}
+#education{
+	text-align: left;
+	 background-color: #424949;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	color: white;
 }

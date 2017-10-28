@@ -21,8 +21,8 @@ p {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    font-size: 24px;
-	
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
 }
 
 li {
@@ -31,9 +31,21 @@ li {
 
 li a {
     display: block;
-    padding: 8px;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
-    
+
+li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+li a.active {
+    color: white;
+    background-color: #4CAF50;
+}
+
 p {
   line-height: 1.32em;
   font-family: 'Hind Vadodara', sans-serif;

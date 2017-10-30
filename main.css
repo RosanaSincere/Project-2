@@ -2,7 +2,7 @@
 body {
     background-color: #EAECEE;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
-	color: black;
+	color: #17202A;
 }
 h1 {
     color: black;
@@ -15,7 +15,7 @@ ul {
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
-    background-color: black;
+    background-color: #17202A;
 }
 
 li {
@@ -44,7 +44,7 @@ p {
   line-height: 1.32em;
   font-family: 'Hind Vadodara', sans-serif;
   width: 90%;
-  color: black;
+  color: #17202A;
 }
 
 .aboutme {

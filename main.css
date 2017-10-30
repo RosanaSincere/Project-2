@@ -63,19 +63,19 @@ p {
 }
 #skills{
 	text-align: left;
-	 background-color: #424949;
+	 background-color: #17202A;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
-	color: white;	
+	color: gray;	
 }
 #experience{
 	text-align: left;
-	 background-color: #424949;
+	 background-color: #17202A;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
-	color: white;
+	color: black;
 }
 #education{
 	text-align: left;
-	 background-color: #424949;
+	 background-color: #17202A;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
-	color: white;
+	color: gray;
 }

@@ -12,7 +12,7 @@ h1 {
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 5;
     overflow: hidden;
     border: 1px solid #e7e7e7;
     background-color: #17202A;
@@ -57,9 +57,9 @@ p {
 }
 #resumeHead{
 	 text-align: center;
-	 background-color: #424949;
+	 background-color:  #EAECEE;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
-	color: white;
+	color: black;
 }
 #skills{
 	text-align: left;

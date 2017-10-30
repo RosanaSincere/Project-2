@@ -2,7 +2,7 @@
 body {
     background-color: #EAECEE;
 	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
-	color: gray;
+	color: #2C3E50;
 }
 h1 {
     color: black;
@@ -32,7 +32,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #ddd;
+    background-color: #666;
 }
 
 li a.active {
@@ -44,7 +44,7 @@ p {
   line-height: 1.32em;
   font-family: 'Hind Vadodara', sans-serif;
   width: 90%;
-  color: #D0D3D4;
+  color: #2C3E50;
 }
 
 .aboutme {
